@@ -16,4 +16,5 @@
 - Кроссбраузерная вёрстка, оптимизация под разные экраны
 
 ## Скриншот
-![preview](img/preview.png)
+<img width="1855" height="874" alt="image" src="https://github.com/user-attachments/assets/73accdc6-827b-4306-94b9-86fc5935a683" />
+
